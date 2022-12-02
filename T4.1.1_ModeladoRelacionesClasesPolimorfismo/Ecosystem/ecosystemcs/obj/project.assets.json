@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\diego\\Documents\\Programming_Projects\\LPOO\\Cell\\cellcs\\cellcs.csproj",
+      "projectUniqueName": "D:\\Users\\diego\\Documents\\Programming_Projects\\LPOO\\LPOO\\T4.1.1_ModeladoRelacionesClasesPolimorfismo\\Ecosystem\\ecosystemcs\\cellcs.csproj",
       "projectName": "cellcs",
-      "projectPath": "D:\\Users\\diego\\Documents\\Programming_Projects\\LPOO\\Cell\\cellcs\\cellcs.csproj",
+      "projectPath": "D:\\Users\\diego\\Documents\\Programming_Projects\\LPOO\\LPOO\\T4.1.1_ModeladoRelacionesClasesPolimorfismo\\Ecosystem\\ecosystemcs\\cellcs.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\diego\\Documents\\Programming_Projects\\LPOO\\Cell\\cellcs\\obj\\",
+      "outputPath": "D:\\Users\\diego\\Documents\\Programming_Projects\\LPOO\\LPOO\\T4.1.1_ModeladoRelacionesClasesPolimorfismo\\Ecosystem\\ecosystemcs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

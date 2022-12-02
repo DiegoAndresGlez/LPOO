@@ -23,6 +23,6 @@ public class Main {
         System.out.println(dog.toString()+proc.toString()+euca.toString());
         System.out.println(cat.toString());
         cat.doAction();
-        cat.super.doAction();
+        
     }
 }
